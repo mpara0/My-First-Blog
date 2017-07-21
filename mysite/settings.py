@@ -25,7 +25,7 @@ SECRET_KEY = '!4t)q@c1m3n0m%v-rw%hcj54ng5pr!ur#s=_2=8yr^o(c*d5q='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mpara2019.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'monicapara.pythonanywhere.com']
 
 
 # Application definition
